@@ -1,0 +1,73 @@
+body {
+    background-color: #B2DFDB;
+    margin: 0;
+    background-image: url('https://wallpaperaccess.com/full/3061917.jpg');
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+  }
+  
+  
+  .flex-container {
+      display: flex;
+      flex-direction: row;
+      
+    }
+  .flex-container > div {
+      
+      margin: 20px;
+      padding: 0px;
+      font-size: 20px;
+      font-size: larger;
+      color: rgb(2, 10, 18);
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+  
+  .header{
+    background-image: url('https://wallpaperaccess.com/full/3061917.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  height: 600px; 
+  padding-top:200px;
+  
+  
+  }
+  
+  
+  .main{
+    width: 500px;
+    border: 3px groove #0c1007;
+    border-radius: 10px;
+    font-family: 'Courier New', Courier, monospace;
+    margin-left: 1000px;
+    background-color: #e6e6fa;
+    color: #031817;
+    padding: 5px 5px 5px 5px;
+  }
+  .main2{
+      margin-left: 0px;
+      margin-top: -260px;
+      width: 300px;
+      font-family: 'Courier New', Courier, monospace;
+      border-radius: 40%;
+      
+   
+  }
+  .shift{
+    margin-left: -600px;
+  }
+  
+  
+  
+  
+  .foot{
+      background-color: #dcdcdc;
+   
+  text-align: right;
+  margin-top: 200px;
+  padding-top: 10px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+  }
